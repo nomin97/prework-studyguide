@@ -1,2 +1,0 @@
-# prework-studyguide
-study guide
