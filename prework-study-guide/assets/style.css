@@ -8,6 +8,7 @@ footer {
     height: 120px;
     background-color: orangered;
     color: rgb(68, 4, 127);
+    text-align: center;
 }
 h1,
 h2{
@@ -34,3 +35,4 @@ p {
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
   }
+
